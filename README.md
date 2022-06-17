@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Alfianri-Manihuruk/Alfianri-Manihuruk/blob/main/banner_Alfianri%20Manihuruk.png" height="150px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Alfianri Manihuruk</h1>
+<h1 align="center">Hi I'm Alfianri Manihuruk</h1>
 <h3 align="center">I'm Enthusiast Data Science.</h3>
 
 <!-- foto and tentang -->
@@ -34,15 +34,10 @@ technology required to work with it.
 ## 🙋‍♂️ Connect with me:
 <p align="left">
   
-<a href = "https://www.linkedin.com/"><img 
-src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com"><img src="https://img.
-icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/alfian_mes/"><img src="https://
-img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCkX8dlMP_2mahnGFQ6H_eFw"><img src="https:/
-/img.icons8.com/color/48/
-000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/alfian_mes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCkX8dlMP_2mahnGFQ6H_eFw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
@@ -50,25 +45,25 @@ img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <br/>
 <p align="center">
     <a href="https://github.com/Alfianri-Manihuruk/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alfianri-Manihuruk streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfianri-Manihuruk &theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alfianri-Manihuruk streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfianri-Manihuruk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
   <br/>
     <a href="https://github.com/Alfianri-Manihuruk/github-readme-stats"><img alt="Alfianri-Manihuruk Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alfianri-Manihuruk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Alfianri-Manihuruk/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfianri-Manihuruk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Alfianri-Manihuruk/github-readme-stats"><img alt="Alfianri Manihuruk Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfianri-Manihuruk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-<a href="https://github.com/Alfianri-Manihuruk/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Alfianri-Manihuruk/github-readme-activity-graph"><img alt="Alfianri Manihuruk Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Alfianri-Manihuruk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Alfianri-Manihuruk/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=Alfianri-Manihuruk">
 </a>
-<a href="https://github.com/Alfianri-Manihuruk?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Alfianri-Manihuruk?tab=followers"><img src="https://img.shields.io/github/followers/Alfianri-Manihuruk?label=Followers&style=social" alt="GitHub Badge"></a>
