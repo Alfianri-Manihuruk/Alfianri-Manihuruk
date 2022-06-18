@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Alfianri-Manihuruk/Alfianri-Manihuruk/blob/main/banner_Alfianri%20Manihuruk.png" height="150px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/Alfianri-Manihuruk/Alfianri-Manihuruk/blob/main/Brain%20tech%20logo%20design.%20smart%20brain%20logo%20design.png" height="100px"/></a>
 <h1 align="center">Hi I'm Alfianri Manihuruk</h1>
 <h3 align="center">I'm Enthusiast Data Science.</h3>
 
