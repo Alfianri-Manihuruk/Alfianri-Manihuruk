@@ -5,8 +5,6 @@
 <!-- foto and tentang -->
 <img align="right" alt="Coding" width="370" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-Hi, thanks for visiting my site and welcome!
-I love to share my knowledge and experience, which is why I built this site.
 Currently focusing on data science, Currently focusing on data science learning
 towards machine learning, artificial intelligence, swarm intelligence and business 
 problem. I always keep learning deep into the basics of the language and moving 
