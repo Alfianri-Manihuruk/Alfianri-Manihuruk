@@ -2,6 +2,8 @@
 <h1 align="center">Hi I'm Alfianri Manihuruk</h1>
 <h3 align="center">I'm Enthusiast Data Science.</h3>
 
+<!-- foto and tentang -->
+<img align="right" alt="Coding" width="370" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 Currently focusing on data science, Currently focusing on data science learning
 towards machine learning, artificial intelligence, swarm intelligence and business 
