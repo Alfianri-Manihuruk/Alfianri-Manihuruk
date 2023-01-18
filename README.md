@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="tempat benner" height="500px"/></a>
 <h1 align="center">Hi I'm Alfianri Manihuruk</h1>
 <h3 align="center">I'm Enthusiast Data Science.</h3>
 
