@@ -2,7 +2,7 @@
 <h3 align="center">I'm Enthusiast Data Science.</h3>
 
 <!-- foto and tentang -->
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="200" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 Currently focusing on data science, Currently focusing on data science learning
 towards machine learning, artificial intelligence, swarm intelligence and business 
