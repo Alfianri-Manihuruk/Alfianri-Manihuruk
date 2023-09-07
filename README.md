@@ -4,11 +4,7 @@
 <!-- foto and tentang -->
 <img align="right" alt="Coding" width="200" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-Currently focusing on data science, Currently focusing on data science learning
-towards machine learning, artificial intelligence, swarm intelligence and business 
-problem. I always keep learning deep into the basics of the language and moving 
-into developing my personal knowledge especially in the data field using the latest 
-technology required to work with it.
+A passionate aspiring Data Scientist with deep knowledge of data science and machine learning. I have a strong academic background in this field and have successfully completed several complex data analysis projects. I am ready to contribute to projects that push the company forward by using data to make better decisions
 
 ## 🚀 Languages and Tools:
 <p align="left">
