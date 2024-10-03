@@ -2,7 +2,7 @@
 <h3 align="center">I'm Enthusiast Data Science.</h3>
 
 <!-- foto and tentang -->
-<img align="right" alt="Coding" width="200" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="170" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 A passionate aspiring Data Scientist with deep knowledge of data science and machine learning. I have a strong academic background in this field and have successfully completed several complex data analysis projects. I am ready to contribute to projects that push the company forward by using data to make better decisions
 
