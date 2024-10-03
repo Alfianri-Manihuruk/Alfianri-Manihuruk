@@ -2,7 +2,6 @@
 <h3 align="center">I'm Enthusiast Data Science.</h3>
 
 <!-- Foto dan Tentang -->
-<img align="right" alt="Coding" width="170" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 A passionate aspiring Data Scientist with deep knowledge of data science and machine learning. I have a strong academic background in this field and have successfully completed several complex data analysis projects. I am ready to contribute to projects that push the company forward by using data to make better decisions.
 
@@ -44,12 +43,6 @@ A passionate aspiring Data Scientist with deep knowledge of data science and mac
 <br/>
 <br/>
 
-## 📈 GitHub Activity Graph
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img alt="Alfianri Manihuruk Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Alfianri-Manihuruk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
-<br/>
-<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Alfianri-Manihuruk/github-profile-views-counter">
