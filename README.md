@@ -51,13 +51,7 @@ A passionate aspiring Data Scientist with deep knowledge of data science and mac
     <a href="https://www.youtube.com/channel/UCkX8dlMP_2mahnGFQ6H_eFw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
-<br/>
 
-<p align="center">
-    <a href="https://github.com/Alfianri-Manihuruk/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alfianri-Manihuruk streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfianri-Manihuruk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 ## 📊 My Github Stats
 <br/>
